@@ -1,1 +1,2 @@
-branchhhhh
+def power(a: float, b: float) -> float:
+    return a ** b
